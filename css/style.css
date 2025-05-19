@@ -332,7 +332,7 @@ body {
 /* flow_wrap / text_flow */
 /* best_wrap */
 
-.best_wrap {
+#best_wrap {
   width: 1320px;
   margin: 0 auto;
   height: 900px;
@@ -592,7 +592,7 @@ body {
 /* inside_wrap */
 /* new_wrap */
 
-.new_wrap {
+#new_wrap {
   width: 1320px;
   margin: 0 auto;
   height: 900px;
@@ -666,7 +666,8 @@ body {
 /* banner_event */
 /* promotion_wrap */
 
-.promotion_wrap {
+
+#promotion_wrap {
   width: 1320px;
   margin: 0 auto;
   height: 1000px;

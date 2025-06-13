@@ -883,8 +883,8 @@ body {
 }
 
 .review_text h3 {
-  font-size: 22px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .review_date {
@@ -897,6 +897,10 @@ body {
 .review_date h3 {
   font-size: 22px;
   font-weight: 600;
+}
+
+.re_bg{
+  background-color: #F0EEE7;
 }
 
 /* Swiper / review_inner */
